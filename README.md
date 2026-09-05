@@ -1,1 +1,1 @@
-# IoT_Anomaly_Detection_-_Predictive_Analytics_Platform
+# IoT_Anomaly_Detection_and_Predictive_Analytics_Platform
